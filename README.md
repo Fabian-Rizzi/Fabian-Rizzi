@@ -38,9 +38,10 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+**More about me**
 
-- 🔭 Currently working on CapaciTechKids
-- 🤔 Studying Machine Learning, Italian and Cyber Security
+- 🔭 Currently working at CapaciTechKids.
+- 🤔 Studying Machine Learning, Italian and Cyber Security.
 - 👯 I’m looking to collaborate on new AI models regarding telemetry or music composing.
 - 🌱 Expanding my social networks!
 - ⚡ How to reach me: https://calendly.com/fabian-rizzi/meeeting-15
