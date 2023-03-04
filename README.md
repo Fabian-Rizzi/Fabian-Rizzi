@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Fabian!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Fabian! A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.</h3> 
 
 
   <img align="left" alt="Fabian's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -7,7 +7,7 @@ https://www.linkedin.com/in/fabian-rizzi/
 <br />
 <br />
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="250" />
