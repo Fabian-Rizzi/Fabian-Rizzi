@@ -16,12 +16,14 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 - 👨🏽‍💻 I’m a Full Stack Web Developer and Arduino Maker, with a great interest in astronomy, security, photography, music and motorsports.
 - 🌱 Currently exploring AI with a big interest in JAVASCRIPT applets and Data Structures and Algorithms. 
-- 🤔 Working in front and back end web development at CapaciTechKids.
+- 🤔 Working in Front and Back End Web Development at CapaciTechKids.
 - 💬 Ask me about anything, you can schedule a videocall at https://calendly.com/fabian-rizzi/meeeting-15
 - 📫 Email me at [faberizzi92@gmail.com](mailto:faberizzi92@gmail.com).
-
-
-
+- 🔭 Studying Machine Learning, Italian and Cyber Security.
+- 👯 I’m looking to collaborate on new AI models regarding telemetry or music composing.
+- 🌱 Expanding my social networks!
+- 📫 Pronouns: Sr. or Mr.
+- 😄 Fun fact: The Carabinieri (italian police) caught me and my wife speeding. They were holding sub-machineguns. We told them we were late to the airport, showed our boarding passes, we all laughed and they did not make a fuss about it. Italians are the best, aren't they?!
 
 
 **Languages and Tools:**  
@@ -40,10 +42,8 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **More about me**
 
-- 🔭 Currently working at CapaciTechKids.
-- 🤔 Studying Machine Learning, Italian and Cyber Security.
-- 👯 I’m looking to collaborate on new AI models regarding telemetry or music composing.
-- 🌱 Expanding my social networks!
-- ⚡ How to reach me: https://calendly.com/fabian-rizzi/meeeting-15
-- 📫 Pronouns: Sr. or Mr.
-- 😄 Fun fact: The Carabinieri (italian police) caught me and my wife speeding. They were holding sub-machineguns. We told them we were late to the airport, showed our boarding passes, we all laughed and they did not make a fuss about it. Italians are the best, aren't they?!
+
+
+
+
+
