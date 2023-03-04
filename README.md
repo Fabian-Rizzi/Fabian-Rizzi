@@ -15,13 +15,12 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 **About Me!**
 
 - 👨🏽‍💻 I’m a Full Stack Web Developer and Arduino Maker, with a great interest in astronomy, security, photography, music and motorsports.
-- 🌱 Currently exploring AI with a big interest in JAVASCRIPT applets and Data Structures and Algorithms. 
+- 🌱 Currently exploring AI with a big interest in JavaScript Applications, Data Structures and Algorithms. 
 - 🤔 Working in Front and Back End Web Development at CapaciTechKids.
 - 💬 Ask me about anything, you can schedule a videocall at https://calendly.com/fabian-rizzi/meeeting-15
 - 📫 Email me at [faberizzi92@gmail.com](mailto:faberizzi92@gmail.com).
 - 🔭 Studying Machine Learning, Italian and Cyber Security.
 - 👯 I’m looking to collaborate on new AI models regarding telemetry or music composing.
-- 🌱 Expanding my social networks!
 - 📫 Pronouns: Sr. or Mr.
 - 😄 Fun fact: The Carabinieri (national gendarmerie of Italy) caught me and my wife speeding. They were holding sub-machineguns. We told them we were late to the airport and showed our boarding passes, then we all laughed and they did not make a fuss about it. Italians are the best, aren't they?! :pinching_hand:
 
