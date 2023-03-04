@@ -1,8 +1,8 @@
 <h3 title="hehehe"> Hey 👋, I'm Fabian!</h3>
 
-<a href="../../../../../../www.linkedin.com/in/fabian-rizzi">
+
   <img align="left" alt="Fabian's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+https://www.linkedin.com/in/fabian-rizzi/
 
 <br />
 <br />
