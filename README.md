@@ -1,6 +1,6 @@
 <h3 title="hehehe"> Hey 👋, I'm Fabian!</h3>
 
-<a href="www.linkedin.com/in/randy-gutierrez-4422a423b">
+<a href="www.linkedin.com/in/fabian-rizzi">
   <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -14,7 +14,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m a Full Stack Web Developer and Arduino Maker, with a great interest in astronomy, security, photography and music.
+- 👨🏽‍💻 I’m a Full Stack Web Developer and Arduino Maker, with a great interest in astronomy, security, photography, music and motorsports.
 - 🌱 Currently exploring AI with a big interest in JAVASCRIPT applets and Data Structures and Algorithms. 
 - 🤔 Working in front and back end web development.
 - 💬 Ask me about anything, you can schedule a videocall at https://calendly.com/fabian-rizzi/meeeting-15
@@ -37,16 +37,13 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 
 <!--
-**Randyvangz/randyvangz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on CapaciTechKids
+- 🤔 Studying Machine Learning, Italian and Cyber Security
+- 👯 I’m looking to collaborate on new AI models regarding telemetry or music composing.
+- 🌱 Expanding my social networks!
+- 💬 Ask me about anything!
+- ⚡ How to reach me: https://calendly.com/fabian-rizzi/meeeting-15
+- 📫 Pronouns: Sr. or Mr.
+- 😄 Fun fact: The Carabinieri (italian police) caught me and my wife speeding. They were holding sub-machineguns. We told them we were late to the airport, showed our boarding passes, we all laughed and they did not make a fuss about it. Italians are the best, aren't they?!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on CapaciTechKids
-- 🌱 I’m currently learning Machine Learning, Italian and Cyber Security
-- 👯 I’m looking to collaborate on new AI models regarding telemetry or music.
-- 🤔 I’m looking for social connections!
-- 💬 Ask me about ...
-- 📫 How to reach me: https://calendly.com/fabian-rizzi/meeeting-15
-- 😄 Pronouns: Mr. or Sr.
-- ⚡ Fun fact: The Carabinieri (italian police) caught me and my wife speeding. They were holding sub-machineguns. We told them we were late to the airport, showed our boarding passes, we all laughed and they did not make a fuss about it. Italians are the best, aren't they?!
 -->
