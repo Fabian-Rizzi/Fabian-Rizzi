@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Fabian! A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.</h3> 
+<h3 title="hehehe"> Hey 👋, I'm Fabian! A Web Development Enthusiast 🚀.</h3> 
 
 
   <img align="left" alt="Fabian's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
