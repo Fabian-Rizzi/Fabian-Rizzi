@@ -23,7 +23,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 - 👯 I’m looking to collaborate on new AI models regarding telemetry or music composing.
 - 🌱 Expanding my social networks!
 - 📫 Pronouns: Sr. or Mr.
-- 😄 Fun fact: The Carabinieri (italian police) caught me and my wife speeding. They were holding sub-machineguns. We told them we were late to the airport and showed our boarding passes, then we all laughed and they did not make a fuss about it. Italians are the best, aren't they?!
+- 😄 Fun fact: The Carabinieri (italian police) caught me and my wife speeding. They were holding sub-machineguns. We told them we were late to the airport and showed our boarding passes, then we all laughed and they did not make a fuss about it. Italians are the best, aren't they?! :pinching_hand:
 
 
 **Languages and Tools:**  
